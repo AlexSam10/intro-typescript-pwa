@@ -1,6 +1,7 @@
 console.log("Hola mundo");
 var t1:number | string=3;
 let t2:number | string=2;
+let activo:boolean=false;
 const t3=10;
 
 t1='www';
